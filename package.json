@@ -1,0 +1,23 @@
+{
+  "name": "@vandorensales/prettier-config",
+  "version": "1.0.0",
+  "description": "A Prettier config for use on all of our projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier config",
+    "prettier"
+  ],
+  "author": "Van Doren Sales",
+  "homepage": "https://www.vandorensales.com",
+  "bugs": {
+    "url": "https://github.com/Van-Doren-Sales/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Van-Doren-Sales/prettier-config"
+  },
+  "license": "MIT"
+}

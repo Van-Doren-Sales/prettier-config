@@ -2,7 +2,7 @@
 
 ## Basic Usage
 
-Run `npm install @vandorensales/prettier-config` and then reference the prettier config in your package.json.
+Run `npm install -D @vandorensales/prettier-config` and then reference the prettier config in your package.json.
 
 ```json
 {
